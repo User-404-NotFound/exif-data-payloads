@@ -36,3 +36,5 @@ nosetests.xml
 
 # automated tests
 /dump_test
+y
+y.pub
